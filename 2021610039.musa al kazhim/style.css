@@ -1,0 +1,75 @@
+
+body
+{
+	background-color: #fff;
+	margin-top: 50px;
+}
+
+#kode
+{
+	width: 486px;
+	height: 565px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+}
+
+#header
+{
+	background-color: lightgreen;
+	line-height: 97px;
+	width: 482px;
+	height: 97px;;
+	border: 3px solid black;
+}
+
+#menu
+{
+	background-color: orange;
+	line-height: 34px;
+	width: 482px;
+	height: 34px;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 3px solid black;
+}
+
+#kode1
+{
+	line-height: 371px;
+	width: 482px;
+	height: 371px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(0,204,0, 0.1);
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+}
+
+#isi
+{
+	background-color: rgba(0,204,0, 0.1);
+	width: 357px;
+	height: 371px;
+	float: left;
+	border-right: 3px solid black;
+}
+
+#sisi_kanan
+{
+	background-color: rgba(0,204,0, 0.1);
+	width: 122px;
+	height: 371px;
+	float: right;
+}
+
+#footer
+{
+	background-color: skyblue;
+	line-height: 51px;
+	width: 482px;
+	height: 51px;
+	border: 3px solid black;
+}
